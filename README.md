@@ -5,7 +5,7 @@
 DataMeta is a cross-platform highly flexible
 and highly expandable metaprogramming toolset aimed specifically at:
 
-* greately reducing code entropy, in many cases to a very substantial degree.
+* greatly reducing code entropy, in many cases to a very substantial degree.
 * shift runtime complexity into compile-time complexity, maximizing runtime performance.
 
 Consider this typical use case: 
