@@ -8,12 +8,13 @@ TBD.
 
 Therefore, you may find many links that point nowhere (because for some there is still nowhere to point),
 some contradictory and unclear wording, even empty repos like the [&rarr;Examples, for instance](https://github.com/eBayDataMeta/DataMeta-examples).
-And you will see them filling up, some faster some slower as we manage our priorities.
+And you will see them filling up, some faster some slower as we keep managing our priorities.
 
 We would also add the following documentation here:
 
 * Quickstart.
 * Overview of all repositories and where to find what.
+* Issue tracking including bug reports, feature requests, clarifications etc.
 * Contributing guidelines.
 
 And more.:truck:
