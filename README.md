@@ -29,14 +29,14 @@ To accomplish this task, DataMeta features:
     most efficiently. The following languages are currently brought into the picture:
     * **DataMetaDOM** - DataMeta <u>D</u>omain <u>O</u>bject <u>M</u>odel, used to 
       describe data structures (metadata). Here's one [example of DataMetaDOM
-code](FIXME) 
+code](https://github.com/eBayDataMeta/DataMeta-examples/blob/master/models/showCase.dmDom) 
       that demonstrates its self-explanatory nature. The only thing that 
       needs to be explained is that the plus sign `+` as the first symbol
       of a field definition denotes a **required** field and the minus sign `-`
       denotes the optional field, the rest usually becomes instantly clear
       provided some familiarity with structured data in general.
       A showcase of all features of the DataMetaDOM 
-      language can be found [&rarr;here](FIXME).
+      language can be found [&rarr;here](https://github.com/eBayDataMeta/DataMeta-examples/blob/master/models/showCase.dmDom).
       DataMetaDOM is the most active and widely used DataMeta DSL.
     * Another one is **DataMetaForm** - format description language, usually used 
       in together with the relevant DataMetaDOM definition, for the cases when 
